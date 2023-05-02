@@ -1,0 +1,52 @@
+.MyBG {
+    height: 100vh;
+    background: url("../assets/img/bg/bg2.jpg");
+    background-size: cover;
+}
+
+.intro {
+    height: 350px; 
+    display:  flex;
+    justify-content: end;
+    align-items: end;
+}
+
+.title{
+    color:white;
+    font-size: 3rem;
+    text-shadow: 2px 2px black;
+    font-weight: 800;
+}
+
+.button {
+    margin-top: 15px;
+}
+
+.Ui {
+    height: auto;
+    background: url("../assets/img/bg/bg4.jpg");
+    background-size: cover;
+}
+
+.webdev {
+    height: auto;
+    background: url("../assets/img/bg/bg2.jpg");
+    background-size: cover;
+}
+
+
+
+
+.uidesignwrapper {
+
+}
+.uidesign {
+    height: auto;
+    margin: 5px;
+    padding: 5px;
+}
+
+.image {
+    height: 250px;
+}
+
